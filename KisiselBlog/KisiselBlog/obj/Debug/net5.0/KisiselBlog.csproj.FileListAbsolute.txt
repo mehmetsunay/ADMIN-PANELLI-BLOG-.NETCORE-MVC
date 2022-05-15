@@ -1,0 +1,112 @@
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\appsettings.json
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.exe
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.deps.json
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.runtimeconfig.json
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.runtimeconfig.dev.json
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.dll
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\ref\KisiselBlog.dll
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.pdb
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.Views.dll
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.Views.pdb
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.AssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\staticwebassets\KisiselBlog.StaticWebAssets.Manifest.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\staticwebassets\KisiselBlog.StaticWebAssets.xml
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\scopedcss\bundle\KisiselBlog.styles.css
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.TagHelpers.input.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.TagHelpers.output.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorCoreGenerate.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorTargetAssemblyInfo.cs
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.Views.pdb
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.dll
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\ref\KisiselBlog.dll
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.pdb
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.genruntimeconfig.cache
+C:\Users\User\source\repos\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.CopyComplete
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\appsettings.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.StaticWebAssets.xml
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.exe
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.deps.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.runtimeconfig.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.runtimeconfig.dev.json
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.Views.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\KisiselBlog.Views.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Humanizer.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.AssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorAssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\scopedcss\bundle\KisiselBlog.styles.css
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\staticwebassets\KisiselBlog.StaticWebAssets.Manifest.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.TagHelpers.input.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.TagHelpers.output.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorCoreGenerate.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorTargetAssemblyInfo.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.RazorTargetAssemblyInfo.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.Views.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.csproj.CopyComplete
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\refint\KisiselBlog.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.pdb
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\KisiselBlog.genruntimeconfig.cache
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\ref\KisiselBlog.dll
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\Post.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\mehme\Desktop\salı\gonderılen\Yeni klasör\KisiselBlog\KisiselBlog\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
